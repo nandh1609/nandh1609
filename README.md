@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 “I’m a Backend engineer at Accenture,<br>👯 seeking collaborators for a backend open source application build,<br>🤝 in need of assistance to develop e-commerce enhancements,<br>🌱 currently learning Kubernetes,<br>💬 ready to answer your queries about backend engineering,<br>⚡ And here's a fun fact - I'm brilliantly lazy but smart!" 🚀📝🌐🧪💡😄
+🔭 “I’m a Backend engineer at Thoughtworks,<br>👯 seeking collaborators for a backend open source application build,<br>🤝 in need of assistance to develop e-commerce enhancements,<br>🌱 currently learning Kubernetes,<br>💬 ready to answer your queries about backend engineering,<br>⚡ And here's a fun fact - I'm brilliantly lazy but smart!" 🚀📝🌐🧪💡😄
 
 
 ## 🌐 Socials:
